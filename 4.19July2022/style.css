@@ -1,5 +1,9 @@
 body{
     background-color: papayawhip;
+    
+        background-image: url("images.jpg");
+        background-color: #cccccc;
+    
 
     font-size: 1.2em;
     text-align: justify;
